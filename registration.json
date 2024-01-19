@@ -1,7 +1,0 @@
- [
-        {
-            "type": "input",
-            "name": "User name",
-            "message": "Введи имя"
-        }
-    ]
